@@ -1,0 +1,3 @@
+# Microbial Ecological Factors (MEFs): A Continuous Factor Model for Gut Microbiome Stratification and Disease Mapping
+## Project Abstract
+Understanding the gut microbiome's role in health and disease requires models that go beyond binary case–control comparisons and discrete clustering. In this project, we introduce Microbial Ecological Factors (MEFs) — a set of continuous, overlapping latent factors derived from large-scale metagenomic profiles using non-negative matrix factorization (NMF). Trained on a curated dataset of 20,000+ samples across healthy and disease states, the MEF framework captures core gradients of gut microbial variation with biological interpretability.
