@@ -23,6 +23,5 @@ Trained on a curated dataset of over **20,000 human gut metagenomic samples**, i
 
 📬 Contact
 For questions, please contact:
-Baoyuan Zhu
-, MiniLab, South China University of Technology, 
+Baoyuan Zhu, MiniLab, South China University of Technology, 
 Email: 18851970329@163.com
